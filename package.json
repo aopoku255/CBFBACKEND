@@ -6,7 +6,7 @@
   "author": "CARISCA IT TEAM",
   "license": "MIT",
   "engines": {
-    "node": "14.x"
+    "node": "22.x"
   },
   "private": true,
   "dependencies": {
