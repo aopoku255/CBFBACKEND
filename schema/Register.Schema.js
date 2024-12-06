@@ -49,6 +49,7 @@ const RegisterSchema = new mongoose.Schema(
     mailing_list: {
       type: Boolean,
       require: false,
+      default: false
     },
   },
   { timestamps: true }
