@@ -21,7 +21,7 @@ async function postRegister(req) {
     const results = await newUser.save();
     if (results) {
       const mail = mailBody(req.body.first_name);
-      sendMail(req.body.email, mail);
+      await sendMail(req.body.email, mail);
 
       return { status: "success", data: "Registration successful" };
     }
