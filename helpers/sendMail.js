@@ -5,9 +5,7 @@ require("dotenv").config();
 const sendMail = (email, mailBody) =>
   new Promise((resolve, reject) => {
     const transporter = nodemailer.createTransport({
-      host: "mail.cariscabusinessforum.com",
-      port: 465,
-      secure: true,
+      service: "gmail",
       auth: {
         user: process.env.SENDER_EMAIL,
         pass: process.env.EMAIL_PASS,
@@ -17,18 +15,21 @@ const sendMail = (email, mailBody) =>
     // write a function to send the mail
 
     const mailOptions = {
-      from: "CARISCA <info@cariscabusinessforum.com>",
+      from: "CARISCA BUSINESS FORUM <info@carisca.knust.edu.gh>",
       to: email,
-      subject: "CARISCA BUSINESS FORUM",
+      subject: "Secure Your Spot for CARISCA Business Forum 2025",
       html: mailBody,
     };
 
     transporter.sendMail(mailOptions, (error) => {
       if (error) {
         reject(error);
+        console.log(error);
       }
       resolve("ok");
     });
-  });
+  })
+    .then((res) => console.log("Email sent"))
+    .catch((err) => console.log("An error occured"));
 
 module.exports = sendMail;
