@@ -46,6 +46,10 @@ const RegisterSchema = new mongoose.Schema(
       type: String,
       require: true,
     },
+    mailing_list: {
+      type: Boolean,
+      require: false,
+    },
   },
   { timestamps: true }
 );
