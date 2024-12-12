@@ -26,8 +26,8 @@ async function postSponsors(req) {
   try {
     const results = await newUser.save();
     if (results) {
-      const mail = mailBody(first_name);
-      await sendMail(email, mail);
+      // const mail = mailBody(first_name);
+      // await sendMail(email, mail);
 
       const forwardEmailBody = forwardMailBody(
         first_name,
