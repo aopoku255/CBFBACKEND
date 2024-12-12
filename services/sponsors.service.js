@@ -27,7 +27,7 @@ async function postSponsors(req) {
     const results = await newUser.save();
     if (results) {
       const mail = mailBody(first_name);
-      sendMail(email, mail);
+      await sendMail(email, mail);
 
       const forwardEmailBody = forwardMailBody(
         first_name,
@@ -42,7 +42,7 @@ async function postSponsors(req) {
         comment
       );
 
-      forwardMail(forwardEmailBody);
+      await forwardMail(forwardEmailBody);
 
       return { status: "success", data: "Sponsor Registered successfully" };
     }
