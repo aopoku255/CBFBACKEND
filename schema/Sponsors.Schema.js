@@ -10,10 +10,7 @@ const SponsorSchema = new mongoose.Schema(
       type: String,
       require: true,
     },
-    job_title: {
-      type: String,
-      require: true,
-    },
+    
     email: {
       type: String,
       require: true,
@@ -22,26 +19,17 @@ const SponsorSchema = new mongoose.Schema(
       type: String,
       require: true,
     },
-    industry: {
-      type: String,
-      require: true,
-    },
+   
     mobile_number: {
       type: String,
       require: false,
     },
-    country: {
-      type: String,
-      require: true,
-    },
+   
     enquiry: {
       type: String,
       require: true,
     },
-    comment: {
-      type: String,
-      require: true,
-    },
+   
   },
   { timestamps: true }
 );
