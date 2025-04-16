@@ -119,7 +119,7 @@ a[x-apple-data-detectors] {
                   <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="left" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Thank you for starting your registration for&nbsp;&nbsp;<strong>CARISCA's 2025 Business Forum, April 29th, 2025 8:00 am-April 30th, 2025 6:00 pm GMT.</strong></p></td>
+                      <td align="left" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Thank you for starting your registration for&nbsp;&nbsp;<strong>CARISCA's 2025 Business Forum, July 30th, 2025 8:00 am-July 31th, 2025 6:00 pm GMT.</strong></p></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -138,7 +138,7 @@ a[x-apple-data-detectors] {
                       <td align="left" style="padding:0;Margin:0"><span class="es-button-border" style="border-style:solid;border-color:#2cb543;background:#0b5394;border-width:0px;display:inline-block;border-radius:5px;width:auto"><a href="https://paystack.com/pay/u7wp5a0-8r" class="es-button" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:18px;padding:10px 20px 10px 20px;display:inline-block;background:#0b5394;border-radius:5px;font-family:arial, 'helvetica neue', helvetica, sans-serif;font-weight:normal;font-style:normal;line-height:21.6px;width:auto;text-align:center;mso-padding-alt:0;mso-border-alt:10px solid #0b5394">Register your seat</a></span></td>
                      </tr>
                      <tr>
-                      <td align="left" style="padding:0;Margin:0;padding-top:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Seats are limited, and your payment will guarantee your place at the event. Please complete the process promptly to avoid missing out! We look forward to seeing you at the <strong>Fiesta Royale Hotel</strong> in April. Watch your email for more information in the coming weeks. Also check the<a target="_blank" href="https://cariscabusinessforum.com/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0b5394;font-size:14px"> business forum website</a> regularly for updated information about keynote speakers, sessions and the forum schedule.</p></td>
+                      <td align="left" style="padding:0;Margin:0;padding-top:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#333333;font-size:14px">Seats are limited, and your payment will guarantee your place at the event. Please complete the process promptly to avoid missing out! We look forward to seeing you at the <strong>Ghana College Of Physicians And Surgeons, Accra</strong> in July. Watch your email for more information in the coming weeks. Also check the<a target="_blank" href="https://cariscabusinessforum.com/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0b5394;font-size:14px"> business forum website</a> regularly for updated information about keynote speakers, sessions and the forum schedule.</p></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -198,7 +198,7 @@ a[x-apple-data-detectors] {
                   <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://ebhvjkq.stripocdn.email/content/guids/CABINET_81fd77cc2bed0a1812f5da03702ea11e0395cab1bc49d2fbc5f0fb3fa79ebba3/images/trilogo.jpg" alt="" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="560"></td>
+                      <td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cariscabusinessforum.com/assets/img/trilogo1.png" alt="" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="560"></td>
                      </tr>
                    </table></td>
                  </tr>
